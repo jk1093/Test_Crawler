@@ -28,7 +28,7 @@ After successful run I have converted my console Java application to a JSP appli
 
 # Pending action points: 
 
-•	Titles of the crawled information on the website.
+•	Titles of the crawled information instead of displaying direct links.
 •	More Convenient way of displaying the information.
 
 # Additional features that are added: 
