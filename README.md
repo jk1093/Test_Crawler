@@ -26,6 +26,11 @@ Converting the console application to Dynamic Web Application and integrating wi
 
 After successful run I have converted my console Java application to a JSP application. This has allowed me to dynamically imbed HTML contents within my application. I have also embedded a twitter timeline within my web application by creating a twitter widget. The layout and functionality is still basic and in its early stage. The links can be clicked to display the article.
 
+# Converting the console application to Dynamic Web Application and integrating with Twitter:
+
+After successful run I have converted my console Java application to a JSP application. This has allowed me to dynamically imbed HTML contents within my application. I have also embedded a twitter timeline within my web application by creating a twitter widget. The layout and functionality is still basic and in its early stage. The links can be clicked to display the article
+
+
 # Pending action points: 
 
 •	Titles of the crawled information instead of displaying direct links.
