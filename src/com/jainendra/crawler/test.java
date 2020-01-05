@@ -1,6 +1,2 @@
-// Commit on dev branch
-//one more commit
-//making no fast forward merge
-// git rebase commit
-// seconf rabase commit
-// third rebase commit in dev 
+//comment1 on master 
+//comment2 on master
