@@ -1,5 +1,1 @@
-//comment1 on master 
-<<<<<<< HEAD
-
-=======
->>>>>>> dev
+//comment1 on master
